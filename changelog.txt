@@ -1,0 +1,19 @@
+Carloswu.xyz beta
+
+Revision (0.6)
+
+- Change FTP login to Disenda instead of root
+- Improve PHP module settings for low RAM performance (check free -m)
+
+
+Version 1.1
+- Add Favicon
+- Use qtranslate X for one page all languages
+- Improve page support (such as Interview questions)
+- Create 404 page
+- Create offline page
+- Fix landscape view for small media queries
+- Use types of format (https://core.trac.wordpress.org/browser/tags/4.4.2/src/wp-includes/functions.php#L0)
+- Create summarized CV
+- create own mail server, make it work with contact form
+- possibility of adding upload field in contact form?
