@@ -19,7 +19,7 @@
             <div class="clearfix"></div>
            
             <!-- CLAIM SENTENCE OF SITE -->
-            <div id="claim" class="row">
+            <div id="claim" class="columns">
             	
                 <div class="orbit" role="region" aria-label="Favorite Space Pictures" data-orbit data-use-m-u-i="false" data-options="pauseOnHover:false">
                   <ul class="orbit-container">

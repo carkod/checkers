@@ -5913,6 +5913,9 @@ table.hover tr:nth-of-type(even):hover {
   z-index: 200; }
 
 /* Navigation */
+@media screen and (min-width: 0em) and (max-width: 39.9375em) {
+  #cvnav {
+    display: table; } }
 #cvnav .column, #cvnav .columns {
   padding: 0.5rem; }
 #cvnav .magellan .active .badge {
@@ -5999,6 +6002,9 @@ table.hover tr:nth-of-type(even):hover {
       background-color: #068EFF; }
 
 @media screen and (min-width: 0em) and (max-width: 39.9375em) {
+  p {
+    font-size: 95%; }
+
   #masthead {
     text-align: center;
     padding: 2rem 0; }
@@ -6042,24 +6048,23 @@ table.hover tr:nth-of-type(even):hover {
       -webkit-transform: translate(0, -50%);
       -o-transform: translate(0, -50%);
       -ms-transform: translate(0, -50%); }
-    #large-nav #centered #claim {
-      padding: 1rem; }
-      #large-nav #centered #claim .orbit-container {
-        max-height: 160px; }
-        #large-nav #centered #claim .orbit-container li {
-          display: none; }
-        #large-nav #centered #claim .orbit-container li.is-active {
-          display: block; }
+    #large-nav #centered #claim .orbit-container {
+      max-height: 160px; }
+      #large-nav #centered #claim .orbit-container li {
+        display: none; }
+      #large-nav #centered #claim .orbit-container li.is-active {
+        display: block; }
     @media screen and (min-width: 40em) and (max-width: 63.9375em) {
       #large-nav #centered {
-        font-size: 95%; }
+        font-size: 75%; }
         #large-nav #centered .orbit, #large-nav #centered #down-text, #large-nav #centered #drop-text {
-          font-size: 67%; }
-        #large-nav #centered button {
-          font-size: 100%; } }
+          font-size: 75%; } }
   #large-nav #lang-filter .button {
     background: #e6e6e6;
     color: #0a0a0a; }
+    @media screen and (max-width: 63.9375em) {
+      #large-nav #lang-filter .button {
+        font-size: 65%; } }
   #large-nav #lang-filter .dropdown-pane ul {
     margin: 1rem; }
   #large-nav #lang-filter .dropdown-pane li {
@@ -6078,6 +6083,9 @@ table.hover tr:nth-of-type(even):hover {
     padding: 1rem;
     background: none;
     color: #0a0a0a; }
+    @media screen and (max-width: 63.9375em) {
+      #large-nav #down-filter #drop-text {
+        margin-bottom: 0; } }
     #large-nav #down-filter #drop-text:hover, #large-nav #down-filter #drop-text:active {
       color: #068EFF; }
   #large-nav #down-filter .dropdown-pane ul {

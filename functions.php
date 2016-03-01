@@ -88,8 +88,8 @@ function cover_letter_pdf() {
 
 // BRANDING 
 
-@ini_set( 'upload_max_size' , '64M' );
-@ini_set( 'post_max_size', '64M' );
+@ini_set( 'upload_max_size' , '100M' );
+@ini_set( 'post_max_size', '100M' );
 @ini_set( 'max_execution_time', '300' );
 
 // Translation textdomain

@@ -1,9 +1,8 @@
 Carloswu.xyz beta
 
 Revision (0.6)
-
+- Add description for RESOURCES files download.
 - Change FTP login to Disenda instead of root
-- Improve PHP module settings for low RAM performance (check free -m)
 
 
 Version 1.1
@@ -17,3 +16,4 @@ Version 1.1
 - Create summarized CV
 - create own mail server, make it work with contact form
 - possibility of adding upload field in contact form?
+- Improve PHP module settings for low RAM performance (check free -m)

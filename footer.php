@@ -10,6 +10,10 @@
 <script type="text/javascript" src="<?php bloginfo('template_url');?>/js/slick.min.js"></script>
     	
     <script type="text/javascript">
+	
+	window.onorientationchange = function() { window.location.reload(); }
+	window.onresize = function() { window.location.reload(); }
+	
     $(document).foundation();
 			jQuery(document).ready(function(){
 				$('#portfolio-slider').slick({
@@ -22,6 +26,8 @@
 		  autoplay: true,
 		  arrows: false,
 				});
+		
+		
 	});
     </script>
     

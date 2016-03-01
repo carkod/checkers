@@ -18,11 +18,8 @@
         <p><?php the_content()?></p>
         <h5><strong><?php _e('Files', 'checkers')?></strong></h5>
         <?php if( !empty( $resources ) ) : foreach( $resources as $res) : ?>
-			<a target="_blank" class="button success" href="http://<?php wp_get_attachment_url( $res['document'] );?>"><?php echo $res['name'];?>&nbsp;
-            	<span class="fa 
-					
-				
-               	"></span>
+			<a data-tooltip title="<?php echo $res['description'] ?>" target="_blank" class="button success" href="http://<?php wp_get_attachment_url( $res['document'] );?>"><?php echo $res['name'];?>&nbsp;
+            	
             </a>
         <?php endforeach; endif; ?>
         
