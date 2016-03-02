@@ -1,0 +1,278 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Checkers beta 0.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Wed Feb 17 2016 20:01:34 GMT+0100 (Hora estándar romance)\n"
+"PO-Revision-Date: Mon Feb 29 2016 12:32:48 GMT+0100 (Hora estándar romance)\n"
+"Last-Translator: admin <carkodesign@gmail.com>\n"
+"Language-Team: \n"
+"Language: Chinese (China)\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: zh_CN\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: ../loop.php:296
+msgid "Business projects"
+msgstr "商业分析项目"
+
+#: ../normal-nav2.php:15 ../normal-nav.php:15
+msgid "Cover letter"
+msgstr "求职信"
+
+#. Name of the template
+msgid "cover"
+msgstr ""
+
+#. Name of the theme
+msgid "Checkers beta 0.5"
+msgstr "Checkers beta 0.5"
+
+#: ../responsive-nav.php:6 ../normal-nav2.php:13 ../normal-nav2.php:100 ../normal-
+#: nav.php:13 ../normal-nav.php:100
+msgid "Choose language"
+msgstr "选择语言"
+
+#: ../responsive-nav.php:30 ../normal-nav2.php:64 ../normal-nav.php:64
+msgid "Download CV"
+msgstr "下载简历"
+
+#: ../loop.php:5
+msgid "Cover video"
+msgstr "简介视频"
+
+#: ../loop.php:19 ../loop.php:42 ../loop.php:94 ../loop.php:138 ../loop.php:177 ..
+#: loop.php:208 ../loop.php:241 ../loop.php:278 ../loop-projects.php:42 ../cover.
+#: php:27 ../pdf.php:27 ../pdf.php:79 ../pdf.php:123 ../pdf.php:162 ../pdf.php:
+#: 193 ../pdf.php:219 ../pdf.php:249 ../loop-resources.php:39 ../loop-page.php:20
+msgid ""
+"This content will be available soon, I apologize for any incoveniences this "
+"may cause."
+msgstr "此内容即将上限，若对您造成任何麻烦请多多包涵，谢谢。"
+
+#: ../loop.php:30 ../pdf.php:15
+msgid "Summary and professional goals"
+msgstr "总结与职业目标"
+
+#: ../loop.php:54 ../pdf.php:39
+msgid "Personal details"
+msgstr "个人信息"
+
+#: ../loop.php:64 ../pdf.php:49
+msgid "First name"
+msgstr "名"
+
+#: ../loop.php:65 ../pdf.php:50
+msgid "Last names"
+msgstr "姓"
+
+#: ../loop.php:68 ../pdf.php:53
+msgid "Date of birth"
+msgstr "出生日期"
+
+#: ../loop.php:69 ../pdf.php:54
+msgid "Place of birth"
+msgstr "出生地点"
+
+#: ../loop.php:72 ../pdf.php:57
+msgid "Nationality"
+msgstr "国籍"
+
+#: ../loop.php:73 ../pdf.php:58
+msgid "ID No."
+msgstr "身份证码"
+
+#: ../loop.php:76 ../pdf.php:61
+msgid "Address"
+msgstr "地址"
+
+#: ../loop.php:79 ../pdf.php:64
+msgid "Phone No."
+msgstr "手机电话号"
+
+#: ../loop.php:107 ../pdf.php:92
+msgid "Work Experience"
+msgstr "工作经历"
+
+#: ../loop.php:150 ../pdf.php:135
+msgid "Education"
+msgstr "学历"
+
+#: ../loop.php:187 ../pdf.php:172
+msgid "Language skills"
+msgstr "语言"
+
+#: ../loop.php:218 ../pdf.php:203
+msgid "Web development skills"
+msgstr "网站技能"
+
+#: ../loop.php:254 ../pdf.php:232
+msgid "IT skills"
+msgstr "软件技能"
+
+#: ../loop.php:288
+msgid "Portfolio"
+msgstr "作品"
+
+#: ../loop.php:294 ../loop-projects.php:6
+msgid "Web development projects"
+msgstr "网站开发项目"
+
+#: ../loop.php:307 ../normal-nav2.php:68 ../normal-nav.php:68
+msgid "Drop me a line"
+msgstr "联系我"
+
+#: ../normal-nav2.php:28 ../normal-nav.php:28
+msgid "Site optimized for recruiters companies and headhunters."
+msgstr "专为猎头公司而致的网站"
+
+#: ../normal-nav2.php:33 ../normal-nav.php:33
+msgid ""
+"Web developer. Specialized in WordPress and UX design for business-oriented "
+"purposes."
+msgstr "网站开发（网站设计、前端编程）。WordPress 平台、围绕用户体验设计，面向企业需求。"
+
+#: ../normal-nav2.php:38 ../normal-nav.php:38
+msgid ""
+"Business process analysis (bottlenecks), financial gap analysis, "
+"stakeholder's change management (workshops), project management."
+msgstr "业务流程分析（瓶颈），资金缺口分析，利益相关者变更管理（作坊），项目管理。"
+
+#: ../normal-nav2.php:43 ../normal-nav.php:43
+#, php-format
+msgid ""
+"Want to know more? I am also a <a href=\"%s\">music arranger enthusiast</a> "
+"and I like to experiment with <a href=\"%s\">social psychology.</a>"
+msgstr "想要更多关于本人的信息？我的兴趣包括<a href=\"%s\">流行音乐编曲</a>，还喜欢进行<a href=\"%s\">社会心理</a>实验。"
+
+#: ../normal-nav2.php:74 ../normal-nav.php:74
+msgid "Back to CV"
+msgstr "退回简历页"
+
+#: ../index.php:36
+msgid "Inspired by Maria Pavlyuk"
+msgstr "由 Maria Pavlyuk 启发"
+
+#: ../index.php:37
+msgid "Designed by Carkod"
+msgstr "Carkod 网站设计"
+
+#: ../index.php:38
+msgid "Nourished with Milka chocolate"
+msgstr "靠 Milka 巧克力滋养"
+
+#: ../functions.php:208
+msgid "A Disenda product. "
+msgstr "Disenda 产品"
+
+#: ../functions.php:209
+msgid "Designer: <a href=\"http://carkod.com\">Carkod</a>."
+msgstr "设计师: <a href=\"http://carkod.com\">Carkod</a>."
+
+#: ../loop-projects.php:22
+msgid "Description"
+msgstr "简介"
+
+#: ../loop-projects.php:24
+msgid "Technology"
+msgstr "技术"
+
+#: ../loop-projects.php:27
+msgid "Demo site"
+msgstr "示范网站"
+
+#: ../loop-projects.php:30
+msgid "Live site"
+msgstr "在线网站"
+
+#: ../contact.php:12
+msgid "You forgot to enter your name."
+msgstr "您忘记输入名字了"
+
+#: ../contact.php:20
+msgid "You forgot to enter your email address."
+msgstr "您忘记输入电子邮件了"
+
+#: ../contact.php:23
+msgid "You entered an invalid email address."
+msgstr "您未输入正确电子邮件"
+
+#: ../contact.php:31
+msgid "You forgot to enter your comments."
+msgstr "您忘记输入讯息了"
+
+#: ../contact.php:62
+#, php-format
+msgid "Thanks, %s"
+msgstr "谢谢, %s"
+
+#: ../contact.php:63
+msgid "Your email was successfully sent. I will be in touch soon."
+msgstr "您的讯息成功发送！我会尽快恢复。"
+
+#: ../contact.php:72
+msgid "There was an error submitting the form."
+msgstr "填写中有错误"
+
+#: ../contact.php:76
+msgid "Company name or headhunter"
+msgstr "猎头公司或人力专员称呼"
+
+#: ../contact.php:81
+msgid "Email"
+msgstr "电子邮件"
+
+#: ../contact.php:86
+msgctxt "in contact form"
+msgid "Subject"
+msgstr "主题"
+
+#: ../contact.php:88 ../contact.php:96
+msgid "Send"
+msgstr "发送"
+
+#: ../header.php:6
+msgid "Carlos Wu - Professional profile"
+msgstr "Carlos Wu 吴嘉路 - 个人简历"
+
+msgid "pdf"
+msgstr "pdf"
+
+#: ../pdf.php:65
+msgid "E-mail"
+msgstr "电子邮箱"
+
+#: ../loop-resources.php:6
+msgid "Resources"
+msgstr "其他资源"
+
+#: ../loop-resources.php:19
+msgid "Files"
+msgstr "文件"
+
+msgid "http://carkod.com"
+msgstr "http://carkod.com"
+
+#. Description of the theme
+msgid ""
+"2015 new professional profile website. Simple and clear theme for optimizing "
+"recruiters experience"
+msgstr "2015 简历网站。简单设计主题、转为招聘专员优化。"
+
+#. Author of the theme
+msgid "Carlos Wu"
+msgstr "Carlos Wu"
+
+#. Author URI of the theme
+msgid "http://carloswu.xyz/"
+msgstr "http://carloswu.xyz/"

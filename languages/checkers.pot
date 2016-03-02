@@ -1,0 +1,281 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Checkers beta 0.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Wed Feb 17 2016 20:01:34 GMT+0100 (Hora estándar romance)\n"
+"POT-Revision-Date: Mon Feb 29 2016 12:31:29 GMT+0100 (Hora estándar romance)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: admin <carkodesign@gmail.com>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: zh_CN\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: ../responsive-nav.php:6 ../normal-nav2.php:13 ../normal-nav2.php:100 ../normal-
+#: nav.php:13 ../normal-nav.php:100
+msgid "Choose language"
+msgstr ""
+
+#: ../responsive-nav.php:30 ../normal-nav2.php:64 ../normal-nav.php:64
+msgid "Download CV"
+msgstr ""
+
+#: ../loop.php:5
+msgid "Cover video"
+msgstr ""
+
+#: ../loop.php:19 ../loop.php:42 ../loop.php:94 ../loop.php:138 ../loop.php:177 ..
+#: /loop.php:208 ../loop.php:241 ../loop.php:278 ../loop-projects.php:42 ../cover.
+#: php:27 ../pdf.php:27 ../pdf.php:79 ../pdf.php:123 ../pdf.php:162 ../pdf.php:
+#: 193 ../pdf.php:219 ../pdf.php:249 ../loop-resources.php:39 ../loop-page.php:20
+msgid ""
+"This content will be available soon, I apologize for any incoveniences this "
+"may cause."
+msgstr ""
+
+#: ../loop.php:30 ../pdf.php:15
+msgid "Summary and professional goals"
+msgstr ""
+
+#: ../loop.php:54 ../pdf.php:39
+msgid "Personal details"
+msgstr ""
+
+#: ../loop.php:64 ../pdf.php:49
+msgid "First name"
+msgstr ""
+
+#: ../loop.php:65 ../pdf.php:50
+msgid "Last names"
+msgstr ""
+
+#: ../loop.php:68 ../pdf.php:53
+msgid "Date of birth"
+msgstr ""
+
+#: ../loop.php:69 ../pdf.php:54
+msgid "Place of birth"
+msgstr ""
+
+#: ../loop.php:72 ../pdf.php:57
+msgid "Nationality"
+msgstr ""
+
+#: ../loop.php:73 ../pdf.php:58
+msgid "ID No."
+msgstr ""
+
+#: ../loop.php:76 ../pdf.php:61
+msgid "Address"
+msgstr ""
+
+#: ../loop.php:79 ../pdf.php:64
+msgid "Phone No."
+msgstr ""
+
+#: ../loop.php:107 ../pdf.php:92
+msgid "Work Experience"
+msgstr ""
+
+#: ../loop.php:150 ../pdf.php:135
+msgid "Education"
+msgstr ""
+
+#: ../loop.php:187 ../pdf.php:172
+msgid "Language skills"
+msgstr ""
+
+#: ../loop.php:218 ../pdf.php:203
+msgid "Web development skills"
+msgstr ""
+
+#: ../loop.php:254 ../pdf.php:232
+msgid "IT skills"
+msgstr ""
+
+#: ../loop.php:288
+msgid "Portfolio"
+msgstr ""
+
+#: ../loop.php:294 ../loop-projects.php:6
+msgid "Web development projects"
+msgstr ""
+
+#: ../loop.php:296
+msgid "Business projects"
+msgstr ""
+
+#: ../loop.php:307 ../normal-nav2.php:68 ../normal-nav.php:68
+msgid "Drop me a line"
+msgstr ""
+
+#: ../normal-nav2.php:15 ../normal-nav.php:15
+msgid "Cover letter"
+msgstr ""
+
+#: ../normal-nav2.php:28 ../normal-nav.php:28
+msgid "Site optimized for recruiters companies and headhunters."
+msgstr ""
+
+#: ../normal-nav2.php:33 ../normal-nav.php:33
+msgid ""
+"Web developer. Specialized in WordPress and UX design for business-oriented "
+"purposes."
+msgstr ""
+
+#: ../normal-nav2.php:38 ../normal-nav.php:38
+msgid ""
+"Business process analysis (bottlenecks), financial gap analysis, "
+"stakeholder's change management (workshops), project management."
+msgstr ""
+
+#: ../normal-nav2.php:43 ../normal-nav.php:43
+#, php-format
+msgid ""
+"Want to know more? I am also a <a href=\"%s\">music arranger enthusiast</a> "
+"and I like to experiment with <a href=\"%s\">social psychology.</a>"
+msgstr ""
+
+#: ../normal-nav2.php:74 ../normal-nav.php:74
+msgid "Back to CV"
+msgstr ""
+
+#: ../index.php:36
+msgid "Inspired by Maria Pavlyuk"
+msgstr ""
+
+#: ../index.php:37
+msgid "Designed by Carkod"
+msgstr ""
+
+#: ../index.php:38
+msgid "Nourished with Milka chocolate"
+msgstr ""
+
+#: ../functions.php:208
+msgid "A Disenda product. "
+msgstr ""
+
+#: ../functions.php:209
+msgid "Designer: <a href=\"http://carkod.com\">Carkod</a>."
+msgstr ""
+
+#: ../loop-projects.php:22
+msgid "Description"
+msgstr ""
+
+#: ../loop-projects.php:24
+msgid "Technology"
+msgstr ""
+
+#: ../loop-projects.php:27
+msgid "Demo site"
+msgstr ""
+
+#: ../loop-projects.php:30
+msgid "Live site"
+msgstr ""
+
+#. Name of the template
+msgid "cover"
+msgstr ""
+
+#: ../contact.php:12
+msgid "You forgot to enter your name."
+msgstr ""
+
+#: ../contact.php:20
+msgid "You forgot to enter your email address."
+msgstr ""
+
+#: ../contact.php:23
+msgid "You entered an invalid email address."
+msgstr ""
+
+#: ../contact.php:31
+msgid "You forgot to enter your comments."
+msgstr ""
+
+#: ../contact.php:62
+#, php-format
+msgid "Thanks, %s"
+msgstr ""
+
+#: ../contact.php:63
+msgid "Your email was successfully sent. I will be in touch soon."
+msgstr ""
+
+#: ../contact.php:72
+msgid "There was an error submitting the form."
+msgstr ""
+
+#: ../contact.php:76
+msgid "Company name or headhunter"
+msgstr ""
+
+#: ../contact.php:81
+msgid "Email"
+msgstr ""
+
+#: ../contact.php:86
+msgctxt "in contact form"
+msgid "Subject"
+msgstr ""
+
+#: ../contact.php:88 ../contact.php:96
+msgid "Send"
+msgstr ""
+
+#: ../header.php:6
+msgid "Carlos Wu - Professional profile"
+msgstr ""
+
+msgid "pdf"
+msgstr ""
+
+#: ../pdf.php:65
+msgid "E-mail"
+msgstr ""
+
+#: ../loop-resources.php:6
+msgid "Resources"
+msgstr ""
+
+#: ../loop-resources.php:19
+msgid "Files"
+msgstr ""
+
+#. Name of the theme
+msgid "Checkers beta 0.5"
+msgstr ""
+
+msgid "http://carkod.com"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"2015 new professional profile website. Simple and clear theme for optimizing "
+"recruiters experience"
+msgstr ""
+
+#. Author of the theme
+msgid "Carlos Wu"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://carloswu.xyz/"
+msgstr ""

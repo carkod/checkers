@@ -1,0 +1,710 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Checkers beta 0.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Wed Feb 17 2016 20:01:34 GMT+0100 (Hora estándar romance)\n"
+"PO-Revision-Date: Wed Feb 17 2016 20:59:01 GMT+0100 (Hora estándar romance)\n"
+"Last-Translator: carkod <disendaweb@gmail.com>\n"
+"Language-Team: \n"
+"Language: Spanish (Spain)\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: es_ES\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: customizations.php:10
+msgid "Parent job title"
+msgstr ""
+
+#: customizations.php:11
+msgid "Parent job title:"
+msgstr ""
+
+#: customizations.php:17
+msgid "Separate job titles  with commas"
+msgstr ""
+
+#: customizations.php:52
+msgid "Parent category"
+msgstr ""
+
+#: customizations.php:53
+msgid "Parent category:"
+msgstr ""
+
+#: customizations.php:54
+msgid "New category"
+msgstr ""
+
+#: customizations.php:55
+msgid "Add New category"
+msgstr ""
+
+#: customizations.php:56
+msgid "Edit category"
+msgstr ""
+
+#: customizations.php:57
+msgid "Update category"
+msgstr ""
+
+#: customizations.php:58
+msgid "View category"
+msgstr ""
+
+#: customizations.php:59
+msgid "Separate categories  with commas"
+msgstr ""
+
+#: customizations.php:60
+msgid "Add or remove categories"
+msgstr ""
+
+#: customizations.php:62
+msgid "Popular project categories"
+msgstr ""
+
+#: customizations.php:63
+msgid "Search category"
+msgstr ""
+
+#: customizations.php:95
+msgid "Parent website:"
+msgstr ""
+
+#: customizations.php:147
+msgid "Parent project:"
+msgstr ""
+
+#: customizations.php:208 /customizations.php:226
+msgid "with bullet lists or paragraph"
+msgstr ""
+
+#: customizations.php:268 /customizations.php:513
+msgid "Upload or add multiple images/attachments."
+msgstr ""
+
+#: customizations.php:281
+msgid "Test Metabox"
+msgstr ""
+
+#: customizations.php:291
+msgid "Test Text"
+msgstr ""
+
+#: customizations.php:302
+msgid "Test Text Small"
+msgstr ""
+
+#: customizations.php:309
+msgid "Test Text Medium"
+msgstr ""
+
+#: customizations.php:324
+msgid "Test Text Email"
+msgstr ""
+
+#: customizations.php:331
+msgid "Test Time"
+msgstr ""
+
+#: customizations.php:337 /customizations.php:338
+msgid "Time zone"
+msgstr ""
+
+#: customizations.php:343
+msgid "Test Date Picker"
+msgstr ""
+
+#: customizations.php:349
+msgid "Test Date Picker (UNIX timestamp)"
+msgstr ""
+
+#: customizations.php:356
+msgid "Test Date/Time Picker Combo (UNIX timestamp)"
+msgstr ""
+
+#: customizations.php:371
+msgid "Test Money"
+msgstr ""
+
+#: customizations.php:379
+msgid "Test Color Picker"
+msgstr ""
+
+#: customizations.php:386
+msgid "Test Text Area"
+msgstr ""
+
+#: customizations.php:392
+msgid "Test Text Area Small"
+msgstr ""
+
+#: customizations.php:398
+msgid "Test Text Area for Code"
+msgstr ""
+
+#: customizations.php:404
+msgid "Test Title Weeeee"
+msgstr ""
+
+#: customizations.php:405
+msgid "This is a title description"
+msgstr ""
+
+#: customizations.php:410
+msgid "Test Select"
+msgstr ""
+
+#: customizations.php:416 /customizations.php:428 /customizations.php:439
+msgid "Option One"
+msgstr ""
+
+#: customizations.php:417 /customizations.php:429 /customizations.php:440
+msgid "Option Two"
+msgstr ""
+
+#: customizations.php:418 /customizations.php:430 /customizations.php:441
+msgid "Option Three"
+msgstr ""
+
+#: customizations.php:422
+msgid "Test Radio inline"
+msgstr ""
+
+#: customizations.php:434
+msgid "Test Radio"
+msgstr ""
+
+#: customizations.php:445
+msgid "Test Taxonomy Radio"
+msgstr ""
+
+#: customizations.php:453
+msgid "Test Taxonomy Select"
+msgstr ""
+
+#: customizations.php:460
+msgid "Test Taxonomy Multi Checkbox"
+msgstr ""
+
+#: customizations.php:468
+msgid "Test Checkbox"
+msgstr ""
+
+#: customizations.php:474
+msgid "Test Multi Checkbox"
+msgstr ""
+
+#: customizations.php:480
+msgid "Check One"
+msgstr ""
+
+#: customizations.php:481
+msgid "Check Two"
+msgstr ""
+
+#: customizations.php:482
+msgid "Check Three"
+msgstr ""
+
+#: customizations.php:506
+msgid "Test Image"
+msgstr ""
+
+#: customizations.php:507
+msgid "Upload an image or enter a URL."
+msgstr ""
+
+#: customizations.php:519
+msgid "oEmbed"
+msgstr ""
+
+#: customizations.php:520
+msgid ""
+"Enter a youtube, twitter, or instagram URL. Supports services listed at <a "
+"href=\"http://codex.wordpress.org/Embeds\">http://codex.wordpress."
+"org/Embeds</a>."
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"2015 new professional profile website. Simple and clear theme for optimizing "
+"recruiters experience"
+msgstr ""
+
+#. Author of the theme
+msgid "Carlos Wu"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://carloswu.xyz/"
+msgstr ""
+
+#: customizations.php:6
+msgctxt "Taxonomy General Name"
+msgid "Positions"
+msgstr ""
+
+#: customizations.php:7
+msgctxt "Taxonomy Singular Name"
+msgid "Position"
+msgstr ""
+
+#: customizations.php:50
+msgid "Category"
+msgstr ""
+
+#: customizations.php:51
+msgid "All categories"
+msgstr ""
+
+#: logo.php:2
+msgid "CARLOS WU"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "http://carkod.com"
+msgstr ""
+
+#: customizations.php:18
+msgid "Add or remove job titles"
+msgstr "Añadir o eliminar título de trabajo"
+
+#: customizations.php:19 /customizations.php:61
+msgid "Choose from the most used"
+msgstr "Elegir entre más utilizados"
+
+#: customizations.php:20
+msgid "Popular job titles"
+msgstr "Títulos de trabajo más populares"
+
+#: customizations.php:105 /customizations.php:157
+msgid "Not found in Trash"
+msgstr "No encontrado en papelera"
+
+#: customizations.php:258 /customizations.php:292 /customizations.php:303
+#: customizations.php:310 /customizations.php:317 /customizations.php:325
+#: customizations.php:332 /customizations.php:344 /customizations.php:350
+#: customizations.php:357 /customizations.php:372 /customizations.php:380
+#: customizations.php:387 /customizations.php:393 /customizations.php:399
+#: customizations.php:411 /customizations.php:423 /customizations.php:435
+#: customizations.php:446 /customizations.php:454 /customizations.php:461
+#: customizations.php:469 /customizations.php:475 /customizations.php:488
+msgid "field description (optional)"
+msgstr "descripción del campo (opcional)"
+
+#: customizations.php:267 /customizations.php:512
+msgid "Multiple Files"
+msgstr "Múltiples archivos"
+
+#: loop.php:5
+msgid "Cover video"
+msgstr "Video de presentación"
+
+#: loop.php:19 /loop.php:42 /loop.php:94 /loop.php:138 /loop.php:177 /loop.php:
+#: 208 /loop.php:241 /loop.php:278 /loop.php:305 /loop-projects.php:43 /pdf.php:
+#: 27 /pdf.php:79 /pdf.php:123 /pdf.php:162 /pdf.php:193 /pdf.php:219 /pdf.php:
+#: 249 /loop-resources.php:39
+msgid ""
+"This content will be available soon, I apologize for any incoveniences this "
+"may cause."
+msgstr "Este contenido estará pronto disponible, disculpe las molestias."
+
+#: customizations.php:8
+msgid "Job title"
+msgstr "Trabajo"
+
+#: customizations.php:9
+msgid "All job titles"
+msgstr "Todos los trabajos"
+
+#: customizations.php:12
+msgid "New job title"
+msgstr "Nuevo título de trabajo"
+
+#: customizations.php:13
+msgid "Add New job title"
+msgstr "Añadir nuevo título de trabajo"
+
+#: customizations.php:14
+msgid "Edit job title"
+msgstr "Editar título de trabajo"
+
+#: customizations.php:15
+msgid "Update job title"
+msgstr "Actualizar título de trabajo"
+
+#: customizations.php:16
+msgid "View job title"
+msgstr "Ver título de trabajo"
+
+#: customizations.php:21
+msgid "Search job title"
+msgstr "Buscar títulos de trabajo"
+
+#: customizations.php:22 /customizations.php:64
+msgid "Not Found"
+msgstr "No encontrado"
+
+#: customizations.php:48
+msgctxt "Taxonomy General Name"
+msgid "Project category"
+msgstr "Tipo de proyecto"
+
+#: customizations.php:49
+msgctxt "Taxonomy Singular Name"
+msgid "Project category"
+msgstr "Tipo de proyecto"
+
+#: customizations.php:91
+msgctxt "Post Type General Name"
+msgid "Web Development"
+msgstr "Desarrollo web"
+
+#: customizations.php:92
+msgctxt "Post Type Singular Name"
+msgid "Website"
+msgstr "Sitio web"
+
+#: customizations.php:93
+msgid "Web Dev"
+msgstr "Des Web"
+
+#: customizations.php:94
+msgid "Web Dev proj"
+msgstr "Proj web"
+
+#: customizations.php:96
+msgid "All websites"
+msgstr "Todos los sitios web"
+
+#: customizations.php:97
+msgid "Add New website"
+msgstr "Añadir nuevo sitio web"
+
+#: customizations.php:98 /customizations.php:150
+msgid "Add New"
+msgstr "Añadir nuevo"
+
+#: customizations.php:99
+msgid "New Website"
+msgstr "Nueva web"
+
+#: customizations.php:100
+msgid "Edit Website"
+msgstr "Editar web"
+
+#: customizations.php:101
+msgid "Update Website"
+msgstr "Actualizar web"
+
+#: customizations.php:102
+msgid "View Website"
+msgstr "Ver web"
+
+#: customizations.php:103
+msgid "Search Website"
+msgstr "Buscar web"
+
+#: customizations.php:104
+msgid "Website not found"
+msgstr "Web no encontrada"
+
+#: customizations.php:114
+msgid "Website"
+msgstr "Sitio web"
+
+#: customizations.php:115
+msgid "Web Development projects"
+msgstr "Proyectos desarrollo web"
+
+#: customizations.php:143
+msgctxt "Post Type General Name"
+msgid "Business Projects"
+msgstr "Proyectos negocio"
+
+#: customizations.php:144
+msgctxt "Post Type Singular Name"
+msgid "Project"
+msgstr "Proyecto"
+
+#: customizations.php:145 /customizations.php:146
+msgid "Business Proj"
+msgstr "Proj neg"
+
+#: customizations.php:148
+msgid "All projects"
+msgstr "Todos los proyectos"
+
+#: customizations.php:149
+msgid "Add New project"
+msgstr "Añadir nuevo proyecto"
+
+#: customizations.php:151
+msgid "New project"
+msgstr "Nuevo proyecto"
+
+#: customizations.php:152
+msgid "Edit project"
+msgstr "Editar proyecto"
+
+#: customizations.php:153
+msgid "Update project"
+msgstr "Actualizar proyecto"
+
+#: customizations.php:154
+msgid "View project"
+msgstr "Ver proyecto"
+
+#: customizations.php:155
+msgid "Search project"
+msgstr "Buscar proyecto"
+
+#: customizations.php:156
+msgid "project not found"
+msgstr "Proyecto no encontrado"
+
+#: customizations.php:166
+msgid "Business Project"
+msgstr "Proyecto negocio"
+
+#: customizations.php:167
+msgid "Business Management Consulting projects"
+msgstr "Proyectos Consultoría de Negocio"
+
+#: customizations.php:198
+msgid "Web Development content"
+msgstr "Contenido desarrollo web"
+
+#: customizations.php:207 /customizations.php:487 /loop-projects.php:23
+msgid "Description"
+msgstr "Descripción"
+
+#: customizations.php:225
+msgid "Toolset"
+msgstr "Tecnología"
+
+#: customizations.php:243
+msgid "Image"
+msgstr "Imagen"
+
+#: customizations.php:244
+msgid "Upload website images"
+msgstr "Actualizar imágenes del sitio web"
+
+#: customizations.php:249
+msgid "Live URL"
+msgstr "Web online"
+
+#: customizations.php:250 /customizations.php:316
+msgid "Website URL"
+msgstr "URL sitio web"
+
+#: customizations.php:257
+msgid "Demo URL"
+msgstr "Demo URL"
+
+#: loop.php:30 /pdf.php:15
+msgid "Summary and professional goals"
+msgstr "Resumen y metas profesionales"
+
+#: loop.php:54 /pdf.php:39
+msgid "Personal details"
+msgstr "Datos personales"
+
+#: loop.php:64 /pdf.php:49
+msgid "First name"
+msgstr "Nombre"
+
+#: loop.php:65 /pdf.php:50
+msgid "Last names"
+msgstr "Apellidos"
+
+#: loop.php:68 /pdf.php:53
+msgid "Date of birth"
+msgstr "Fecha nacimiento"
+
+#: loop.php:69 /pdf.php:54
+msgid "Place of birth"
+msgstr "Lugar nacimiento"
+
+#: loop.php:72 /pdf.php:57
+msgid "Nationality"
+msgstr "Nacionalidad"
+
+#: loop.php:73 /pdf.php:58
+msgid "ID No."
+msgstr "DNI"
+
+#: loop.php:76 /pdf.php:61
+msgid "Address"
+msgstr "Domicilio"
+
+#: loop.php:79 /pdf.php:64
+msgid "Phone No."
+msgstr "Tlf."
+
+#: loop.php:80 /pdf.php:65
+msgid "E-mail"
+msgstr "E-mail"
+
+#: loop.php:107 /pdf.php:92
+msgid "Work Experience"
+msgstr "Experiencia profesional"
+
+#: loop.php:150 /pdf.php:135
+msgid "Education"
+msgstr "Experiencia académica"
+
+#: loop.php:187 /pdf.php:172
+msgid "Language skills"
+msgstr "Idiomas"
+
+#: loop.php:218 /pdf.php:203
+msgid "Web development skills"
+msgstr "Conocimiento desarrollo web"
+
+#: loop.php:254 /pdf.php:232
+msgid "IT skills"
+msgstr "Conocimiento informática"
+
+#: loop.php:288
+msgid "Portfolio"
+msgstr "Cartera de trabajos"
+
+#: loop.php:316 /normal-nav.php:61
+msgid "Drop me a line"
+msgstr "Contacta conmigo"
+
+#: index.php:24
+msgid "Inspired by Maria Pavlyuk"
+msgstr "Inspirado por Maria Pavlyuk"
+
+#: index.php:25
+msgid "Designed by Carkod"
+msgstr "Diseñado por Carkod"
+
+#: index.php:26
+msgid "Nourished with Milka chocolate"
+msgstr "Alimentado por chocolate Milka"
+
+#: functions.php:135
+msgid "A Disenda product. "
+msgstr "Un producto de Disenda"
+
+#: functions.php:136
+msgid "Designer: <a href=\"http://carkod.com\">Carkod</a>."
+msgstr "Diseñador: <a href=\"http://carkod.com\">Carkod</a>."
+
+#: loop-projects.php:6
+msgid "Web development projects"
+msgstr "Proyectos de desarrollo web"
+
+#: loop-projects.php:15
+msgid "Working as"
+msgstr "Trabajando como"
+
+#: loop-projects.php:25
+msgid "Technology"
+msgstr "Tecnología"
+
+#: loop-projects.php:28
+msgid "Demo site"
+msgstr "Web demo"
+
+#: loop-projects.php:31
+msgid "Live site"
+msgstr "Web online"
+
+#: normal-nav.php:14
+msgid "Choose language"
+msgstr "Elegir idioma"
+
+#: normal-nav.php:52
+msgid "Download CV"
+msgstr "Descargar CV"
+
+#: normal-nav.php:57
+msgid "Back to CV"
+msgstr "Volver a CV"
+
+#: contact.php:12
+msgid "You forgot to enter your name."
+msgstr "Se le ha olvidado introducir su nombre"
+
+#: contact.php:20
+msgid "You forgot to enter your email address."
+msgstr "Se le ha olvidado introducir correo electrónico"
+
+#: contact.php:23
+msgid "You entered an invalid email address."
+msgstr "Ha introducido un correo electrónico inválido"
+
+#: contact.php:31
+msgid "You forgot to enter your comments."
+msgstr "Ha olvidado introducir su comentario"
+
+#: contact.php:62
+#, php-format
+msgid "Thanks, %s"
+msgstr "Gracias, %s"
+
+#: contact.php:63
+msgid "Your email was successfully sent. I will be in touch soon."
+msgstr "Tu correo electrónico ha sido enviado. Estaremos en contacto."
+
+#: contact.php:72
+msgid "There was an error submitting the form."
+msgstr "Ha habido un error en el envío"
+
+#: contact.php:76
+msgid "Company name or headhunter"
+msgstr "Nombre empresa o cazatalento"
+
+#: contact.php:81
+msgid "Email"
+msgstr "Email"
+
+#: contact.php:86
+msgctxt "in contact form"
+msgid "Subject"
+msgstr "Asunto"
+
+#: contact.php:88
+msgid "Send"
+msgstr "Enviar"
+
+#: logo.php:3
+msgid "Curriculum vitae"
+msgstr "Currículum Vitae"
+
+#: header.php:6
+msgid "Carlos Wu - Professional profile"
+msgstr "Carlos Wu - Perfil profesional"
+
+#. Name of the template
+msgid "pdf"
+msgstr "pdf"
+
+#: loop-resources.php:6
+msgid "Resources"
+msgstr "Recursos"
+
+#: loop-resources.php:19
+msgid "Files"
+msgstr "Archivos"
+
+#. Name of the theme
+msgid "Checkers beta 0.4"
+msgstr "Checkers beta 0.4"

@@ -1,0 +1,347 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Checkers beta 0.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Wed Feb 17 2016 20:01:34 GMT+0100 (Hora estándar romance)\n"
+"PO-Revision-Date: Fri Feb 19 2016 22:17:39 GMT+0100 (Hora estándar romance)\n"
+"Last-Translator: admin <carkodesign@gmail.com>\n"
+"Language-Team: \n"
+"Language: Spanish (Spain)\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: es_ES\n"
+"X-Generator: Loco - https://localise.biz/"
+
+msgid "All categories"
+msgstr ""
+
+msgid "CARLOS WU"
+msgstr ""
+
+msgid "Category"
+msgstr ""
+
+msgctxt "Taxonomy General Name"
+msgid "Positions"
+msgstr ""
+
+msgctxt "Taxonomy Singular Name"
+msgid "Position"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "http://carkod.com"
+msgstr ""
+
+msgid "A Disenda product. "
+msgstr "Un producto de Disenda"
+
+msgid "Add New"
+msgstr "Añadir nuevo"
+
+msgid "Add New job title"
+msgstr "Añadir nuevo título de trabajo"
+
+msgid "Add New project"
+msgstr "Añadir nuevo proyecto"
+
+msgid "Add New website"
+msgstr "Añadir nuevo sitio web"
+
+msgid "Address"
+msgstr "Domicilio"
+
+msgid "All job titles"
+msgstr "Todos los trabajos"
+
+msgid "All projects"
+msgstr "Todos los proyectos"
+
+msgid "All websites"
+msgstr "Todos los sitios web"
+
+msgid "Back to CV"
+msgstr "Volver a CV"
+
+msgid "Business Management Consulting projects"
+msgstr "Proyectos Consultoría de Negocio"
+
+msgid "Business Proj"
+msgstr "Proj neg"
+
+msgid "Business Project"
+msgstr "Proyecto negocio"
+
+msgid "Carlos Wu - Professional profile"
+msgstr "Carlos Wu - Perfil profesional"
+
+#. Name of the theme
+msgid "Checkers beta 0.4"
+msgstr "Checkers beta 0.4"
+
+msgid "Choose language"
+msgstr "Elegir idioma"
+
+msgid "Company name or headhunter"
+msgstr "Nombre empresa o cazatalento"
+
+msgid "Cover video"
+msgstr "Video de presentación"
+
+msgid "Curriculum vitae"
+msgstr "Currículum Vitae"
+
+msgid "Date of birth"
+msgstr "Fecha nacimiento"
+
+msgid "Demo URL"
+msgstr "Demo URL"
+
+msgid "Demo site"
+msgstr "Web demo"
+
+msgid "Description"
+msgstr "Descripción"
+
+msgid "Designed by Carkod"
+msgstr "Diseñado por Carkod"
+
+msgid "Designer: <a href=\"http://carkod.com\">Carkod</a>."
+msgstr "Diseñador: <a href=\"http://carkod.com\">Carkod</a>."
+
+msgid "Download CV"
+msgstr "Descargar CV"
+
+msgid "Drop me a line"
+msgstr "Contacta conmigo"
+
+msgid "E-mail"
+msgstr "E-mail"
+
+msgid "Edit Website"
+msgstr "Editar web"
+
+msgid "Edit job title"
+msgstr "Editar título de trabajo"
+
+msgid "Edit project"
+msgstr "Editar proyecto"
+
+msgid "Education"
+msgstr "Experiencia académica"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Files"
+msgstr "Archivos"
+
+msgid "First name"
+msgstr "Nombre"
+
+msgid "ID No."
+msgstr "DNI"
+
+msgid "IT skills"
+msgstr "Conocimiento informática"
+
+msgid "Image"
+msgstr "Imagen"
+
+msgid "Inspired by Maria Pavlyuk"
+msgstr "Inspirado por Maria Pavlyuk"
+
+msgid "Job title"
+msgstr "Trabajo"
+
+msgid "Language skills"
+msgstr "Idiomas"
+
+msgid "Last names"
+msgstr "Apellidos"
+
+msgid "Live URL"
+msgstr "Web online"
+
+msgid "Live site"
+msgstr "Web online"
+
+msgid "Nationality"
+msgstr "Nacionalidad"
+
+msgid "New Website"
+msgstr "Nueva web"
+
+msgid "New job title"
+msgstr "Nuevo título de trabajo"
+
+msgid "New project"
+msgstr "Nuevo proyecto"
+
+msgid "Not Found"
+msgstr "No encontrado"
+
+msgid "Nourished with Milka chocolate"
+msgstr "Alimentado por chocolate Milka"
+
+msgid "Personal details"
+msgstr "Datos personales"
+
+msgid "Phone No."
+msgstr "Tlf."
+
+msgid "Place of birth"
+msgstr "Lugar nacimiento"
+
+msgid "Portfolio"
+msgstr "Cartera de trabajos"
+
+msgctxt "Post Type General Name"
+msgid "Business Projects"
+msgstr "Proyectos negocio"
+
+msgctxt "Post Type General Name"
+msgid "Web Development"
+msgstr "Desarrollo web"
+
+msgctxt "Post Type Singular Name"
+msgid "Project"
+msgstr "Proyecto"
+
+msgctxt "Post Type Singular Name"
+msgid "Website"
+msgstr "Sitio web"
+
+msgid "Resources"
+msgstr "Recursos"
+
+msgid "Search Website"
+msgstr "Buscar web"
+
+msgid "Search job title"
+msgstr "Buscar títulos de trabajo"
+
+msgid "Search project"
+msgstr "Buscar proyecto"
+
+msgid "Send"
+msgstr "Enviar"
+
+msgid "Summary and professional goals"
+msgstr "Resumen y metas profesionales"
+
+msgctxt "Taxonomy General Name"
+msgid "Project category"
+msgstr "Tipo de proyecto"
+
+msgctxt "Taxonomy Singular Name"
+msgid "Project category"
+msgstr "Tipo de proyecto"
+
+msgid "Technology"
+msgstr "Tecnología"
+
+#, c-format
+msgid "Thanks, %s"
+msgstr "Gracias, %s"
+
+msgid "There was an error submitting the form."
+msgstr "Ha habido un error en el envío"
+
+msgid ""
+"This content will be available soon, I apologize for any incoveniences this "
+"may cause."
+msgstr "Este contenido estará pronto disponible, disculpe las molestias."
+
+msgid "Toolset"
+msgstr "Tecnología"
+
+msgid "Update Website"
+msgstr "Actualizar web"
+
+msgid "Update job title"
+msgstr "Actualizar título de trabajo"
+
+msgid "Update project"
+msgstr "Actualizar proyecto"
+
+msgid "Upload website images"
+msgstr "Actualizar imágenes del sitio web"
+
+msgid "View Website"
+msgstr "Ver web"
+
+msgid "View job title"
+msgstr "Ver título de trabajo"
+
+msgid "View project"
+msgstr "Ver proyecto"
+
+msgid "Web Dev"
+msgstr "Des Web"
+
+msgid "Web Dev proj"
+msgstr "Proj web"
+
+msgid "Web Development content"
+msgstr "Contenido desarrollo web"
+
+msgid "Web Development projects"
+msgstr "Proyectos desarrollo web"
+
+msgid "Web development projects"
+msgstr "Proyectos de desarrollo web"
+
+msgid "Web development skills"
+msgstr "Conocimiento desarrollo web"
+
+msgid "Website"
+msgstr "Sitio web"
+
+msgid "Website URL"
+msgstr "URL sitio web"
+
+msgid "Website not found"
+msgstr "Web no encontrada"
+
+msgid "Work Experience"
+msgstr "Experiencia profesional"
+
+msgid "Working as"
+msgstr "Trabajando como"
+
+msgid "You entered an invalid email address."
+msgstr "Ha introducido un correo electrónico inválido"
+
+msgid "You forgot to enter your comments."
+msgstr "Ha olvidado introducir su comentario"
+
+msgid "You forgot to enter your email address."
+msgstr "Se le ha olvidado introducir correo electrónico"
+
+msgid "You forgot to enter your name."
+msgstr "Se le ha olvidado introducir su nombre"
+
+msgid "Your email was successfully sent. I will be in touch soon."
+msgstr "Tu correo electrónico ha sido enviado. Estaremos en contacto."
+
+msgctxt "in contact form"
+msgid "Subject"
+msgstr "Asunto"
+
+#. Name of the template
+msgid "pdf"
+msgstr "pdf"
+
+msgid "project not found"
+msgstr "Proyecto no encontrado"
