@@ -1,0 +1,444 @@
+/*
+Theme Name: Checkers beta 0.6
+Theme URI: http://carkod.com
+Author: Carlos Wu
+Author URI: http://carloswu.xyz/
+Description: 2015 new professional profile website. Simple and clear theme for optimizing recruiters experience
+Version: 0.6
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: blue, checkers theme, grey, simple and clear
+Text Domain: checkers
+
+*/
+@import 'vendor/normalize';
+@import 'font-awesome';
+@import 'foundation';
+@import 'slick';
+@import 'slick-theme';
+
+@include foundation-global-styles;
+@include foundation-grid;
+@include foundation-typography;
+@include foundation-button;
+@include foundation-forms;
+@include foundation-visibility-classes;
+@include foundation-float-classes;
+@include foundation-accordion;
+@include foundation-accordion-menu;
+@include foundation-badge;
+@include foundation-breadcrumbs;
+@include foundation-button-group;
+@include foundation-callout;
+@include foundation-close-button;
+@include foundation-drilldown-menu;
+@include foundation-dropdown;
+@include foundation-dropdown-menu;
+@include foundation-flex-video;
+@include foundation-label;
+@include foundation-media-object;
+@include foundation-menu;
+@include foundation-off-canvas;
+@include foundation-orbit;
+@include foundation-pagination;
+@include foundation-progress-bar;
+@include foundation-slider;
+@include foundation-reveal;
+@include foundation-sticky;
+@include foundation-switch;
+@include foundation-table;
+@include foundation-tabs;
+@include foundation-thumbnail;
+@include foundation-title-bar;
+@include foundation-tooltip;
+@include foundation-top-bar;
+
+/**
+*
+* OVERRIDES
+*
+*/
+
+.pattern {
+background: url(images/checker-bg.jpg) no-repeat;
+position:absolute;
+z-index:100;
+padding:0;
+
+	@include breakpoint(small only)  {
+		min-width:100%;
+		width:100%;
+	}
+
+}
+
+.mask {
+background: url(images/home-bg.png);
+min-height:100%;
+height:100%;
+z-index:200;
+}
+
+/* Navigation */
+
+$cvnav-padding:0.5rem;
+	
+#cvnav {
+	@include breakpoint(small only) {
+		display:table;}
+	.column {
+		padding:$cvnav-padding;}
+	
+	.magellan .active .badge {
+		background:$white;
+		color:$primary-color;
+		border:1px solid $primary-color;
+		font-size:1.2em;
+		@include breakpoint(medium only)  {
+    	font-size:1.2rem;
+    }
+		}
+	
+	.badge {
+	font-size:1.2em;
+	border:1px solid $badge-background;
+	-webkit-appearance: none;
+    transition: all 0.25s ease-out;
+    @include breakpoint(medium only)  {
+    	font-size:1.2rem;
+    }
+	
+	&:hover, &:active {	
+
+		background:$white;
+		color:$badge-background;
+		border:1px solid $badge-background;
+		font-size:1.2em;
+		@include breakpoint(medium only)  {
+    	font-size:1.2rem;
+    }
+		
+		
+	}
+	
+	}
+
+	
+}
+
+#cvfilter {
+	select {
+		border-radius:0.5rem;
+		border:1px solid $badge-background;
+		font-size:0.8em;
+		background:#fff;
+		color:$badge-background;
+		}
+	ul.vertical {
+		margin-bottom:1.5em;
+		
+		}
+}
+
+#sidebar {
+	
+	
+	@include breakpoint(medium) {
+		padding-left:0;
+		float:left;
+		}
+		
+	.title-bar {
+	font-size:1.2em;
+	border:1px solid $primary-color;
+	
+		
+		&:hover, &:active {
+	
+			background:$white;
+			color:$primary-color;
+			border:1px solid $badge-background;
+			font-size:1.2em;
+		}
+	}
+	
+	@include breakpoint(small only) {
+			background-image:
+			  -moz-linear-gradient(45deg, #ddd 25%, transparent 25%), 
+			  -moz-linear-gradient(-45deg, #ddd 25%, transparent 25%),
+			  -moz-linear-gradient(45deg, transparent 75%, #ddd 75%),
+			  -moz-linear-gradient(-45deg, transparent 75%, #ddd 75%);
+			background-image:
+			  -webkit-gradient(linear, 0 100%, 100% 0, color-stop(.25, $light-gray), color-stop(.25, transparent)), 
+			  -webkit-gradient(linear, 0 0, 100% 100%, color-stop(.25, $light-gray), color-stop(.25, transparent)),
+			  -webkit-gradient(linear, 0 100%, 100% 0, color-stop(.75, transparent), color-stop(.75, $light-gray)),
+			  -webkit-gradient(linear, 0 0, 100% 100%, color-stop(.75, transparent), color-stop(.75, $light-gray));
+		
+			-moz-background-size:300px 300px;
+			background-size:300px 300px;
+			-webkit-background-size:300px 301px; /* override value for shitty webkit */
+			
+			background-position:0 0, 150px 0, 150px -150px, 0px 150px;
+			background-color:$white;
+			position:fixed;
+			width:100%;
+			border-bottom:1px solid $light-gray;
+			z-index:9000;			
+		 }
+}
+
+#responsive-nav {
+	hr {
+		margin:0;
+		}
+		
+	h2 {
+		text-transform:uppercase;
+		font-size:$global-font-size*0.75;
+		padding:$menu-item-padding;
+		color:$dark-gray;
+		margin:0;}
+	li {
+		font-size:$global-font-size*0.75;
+		a {
+			color:$primary-color;
+			background-color:$light-gray;
+			border-radius:0.5rem;
+			margin:$menu-item-padding;
+			margin-left:0;
+			margin-right:0;
+			&:active, &:hover {
+				color:$white;
+				border:0.1rem solid $primary-color;
+				background-color:$primary-color;
+				}
+		}
+			
+			
+	}
+	
+}
+
+#nav-container {
+	@include breakpoint(medium) {
+	}
+}
+@include breakpoint(small only) {
+	p {font-size:95%}
+	#masthead {
+		text-align:center;
+		padding:2rem 0;
+		h1 {
+			text-align:center;
+			margin-bottom:0;
+			}
+				
+		h2 {
+			text-align:center;
+			}
+	}
+}
+
+
+#large-nav {
+	padding-top:0;
+	margin-left:0;
+	position:fixed;
+	min-height:100%;
+	height:100%;
+	font-size:$global-font-size*1.5;
+	z-index:100;
+	#cvnav {
+		.column {width:20%;}
+		}
+
+		#centered {
+			min-width:100%;
+			position:absolute;
+			top:50%;
+			z-index:300;
+			transform: translate(0, -50%);
+			-webkit-transform: translate(0, -50%);
+			-o-transform: translate(0, -50%);
+			-ms-transform: translate(0, -50%);
+			text-align:left;
+			
+			#masthead {
+				text-align:center;}
+			
+			
+			
+			.orbit-slide {
+				@include breakpoint(large) {
+					height:160px;
+				}
+				@include breakpoint(medium down) {
+					height:100px!important;
+				}
+				
+				
+				div {
+					position:absolute;
+					top:50%;
+					transform: translate(0, -50%);
+					-webkit-transform: translate(0, -50%);
+					-o-transform: translate(0, -50%);
+					-ms-transform: translate(0, -50%);
+					}
+				}
+
+			
+			#claim {		
+				.orbit-container {
+					max-height:160px;
+					li {
+						display:none;}
+					li.is-active {
+						display:block;}
+					}	
+			}
+			@include breakpoint(medium only) {
+						font-size:$global-font-size*0.75;
+						.orbit, #down-text, #drop-text {font-size:$global-font-size*0.75;}
+						
+					}
+			
+		}
+			
+				
+		#lang-filter {
+			.button {
+				background:$light-gray;
+				color:$black;
+					@include breakpoint(medium down) {
+					font-size:$global-font-size*0.65;
+					}
+				}
+			.dropdown-pane {
+				ul {margin:$global-margin;}
+				li {
+				text-align:left;
+				font-size:map-get($button-sizes, default);
+				}
+				
+				a {display:block;}
+			}
+		}
+		#down-filter {
+			
+			#down-text {
+				padding:$global-padding;
+				color:$primary-color;
+				background-color:$white;
+				&:hover, &:active {
+					color:$black;
+					background-color:$white;}
+			}
+			#drop-text {
+				padding:$global-padding;
+				background:none;
+				color:$black;
+				@include breakpoint(medium down) {
+					margin-bottom:0;}
+				&:hover, &:active {
+					color:$primary-color;}
+			}
+				
+			.dropdown-pane {
+				ul {margin:$global-margin;}
+				
+				li {text-align:left;
+				font-size:map-get($button-sizes, default);}
+				
+				a {display:block;}
+			}
+		}
+		
+			
+}
+		
+.is-off-canvas-open {
+	#cvnav {
+	
+	#responsive-toggle {
+		
+		z-index:2000;
+		position:absolute;
+		.badge {
+		background-color:$white;
+		color:$primary-color;
+		}
+		
+	}
+	}
+	
+}
+
+	
+	
+/* Content */
+
+$total-space:strip-unit($cvnav-padding) + strip-unit($badge-font-size) + strip-unit($badge-padding);
+#primary {
+	padding-top:2rem;
+	@include breakpoint(small only) {
+		padding-top:5em;}
+	}
+	
+/* CV */
+
+#cv {
+	p, li, dl{ 
+	@include breakpoint(medium down) {
+		font-size:0.8rem;}
+	}
+		
+	}
+
+#personal-photo {
+	img {
+		border-radius:50%;
+		max-width:100%;
+		}
+	}
+	
+/* Maria Footer */
+
+#footer {
+	display:table;
+	width:100%;
+	background-color:$dark-gray;
+	color:$white;
+	margin:1rem 0;
+	padding:1rem;
+	ul {
+		list-style:none;
+		margin:0 auto;
+		display:table;
+		li {
+			float:left;}
+		}
+		
+	}
+
+/* Portfolio */
+
+#portfolio {
+	p, li, a {
+		@include breakpoint(medium down) {
+					font-size:95%;
+				}
+	
+		}
+	.item-image {
+		@include breakpoint(large down) {
+					margin-bottom:1rem;
+				}
+		}
+	
+}
+
+/* Projects */
+
+.hr-spacing {
+		margin: 2rem 0;}
