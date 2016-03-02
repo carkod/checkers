@@ -1,7 +1,7 @@
 Carloswu.xyz beta
 
 Revision (0.6)
-- Add description for RESOURCES files download.
+
 - Change FTP login to Disenda instead of root
 
 

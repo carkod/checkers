@@ -25,7 +25,7 @@
                   <ul class="orbit-container">
                     <li class="is-active orbit-slide">
                       <div>
-                        <p><?php _e('Site optimized for recruiters companies and headhunters.', 'checkers')?></p>
+                        <p><?php _e('Site optimized for recruiters and headhunters.', 'checkers')?></p>
                       </div>
                     </li>
                     <li class="orbit-slide">
