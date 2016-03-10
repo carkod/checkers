@@ -17,3 +17,4 @@ Version 1.1
 - create own mail server, make it work with contact form
 - possibility of adding upload field in contact form?
 - Improve PHP module settings for low RAM performance (check free -m)
+- Integration with external API such as LinkedIn
