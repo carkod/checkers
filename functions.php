@@ -36,10 +36,8 @@ function curriculum_vitae_pdf() {
 		
 		$options = "--footer-left 'www.carloswu.xyz' --footer-right '[page]' --footer-spacing 5 --footer-font-size 8 ";
 		
-		$ex_cmd = "$command $url $options " . $pdf_dir . $name;
-		
-		$output = shell_exec($ex_cmd);
-	
+		$ex_cmd = "rm /var/www/carloswu.xyz/wp-content/uploads/cv/" . $name . " ; $command $url $options " . $pdf_dir . $name;
+		shell_exec($ex_cmd);	
 }
 
 
